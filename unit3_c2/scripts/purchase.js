@@ -15,3 +15,5 @@ purchase.map((elem,i)=>{
     div.append(img,name,price);
     document.querySelector("#purchased_vouchers").append(div);
 })
+
+//comment
